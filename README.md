@@ -18,4 +18,4 @@
   * Easy mode which gives you 3 blocks
   * Hard mode which gives you 6 blocks
 
-* 🕹 Demo: <a href="https://lovechase.github.io/Do-you-know-you-Colors/" target="_blank">Estimator</a>
+* 🕹 Demo: <a href="https://lovechase.github.io/Do-you-know-you-Colors/" target="_blank">Color Game</a>
